@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently parctice **CSs, HTML y Javascript**
 
-- 👯 I’m looking to collaborate on **La Montaña Palentina**
-
 - 👨‍💻 All of my projects are available at [https://ytaylor.dev/](https://ytaylor.dev/)
 
 - 📝 I regularly write articles on [https://ytaylor.dev/54dfd-creative-portfolio-blog/](https://ytaylor.dev/54dfd-creative-portfolio-blog/)
